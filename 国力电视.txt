@@ -1,2 +1,0 @@
-防城综合,https://live.fcgtvb.com:443/live/app1.m3u8?auth_key=1604480433-0-0-e42eb9c05386b5bc55c6a809943ebb1f
-防城公共,https://live.fcgtvb.com:443/live/app3.m3u8?auth_key=1605689054-0-0-23fb97339caf6f5b76bc29e7662c4d8e

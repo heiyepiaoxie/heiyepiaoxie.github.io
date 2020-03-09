@@ -1,4 +1,1 @@
-语文,#genre#
-第一课：春夏秋冬,http://1253439177.vod2.myqcloud.com:80/e21e92d1vodtransgzp1253439177/841c5c9b9031868223111154492/v.f30.mp4
-数学,#genre#
-第一课：认识图形,http://1253439177.vod2.myqcloud.com:80/e21e92d1vodtransgzp1253439177/8b64b7829031868223111495149/v.f30.mp4
+﻿{"time":30,"interval":1000,"text":"欢迎收看国力电视"}
